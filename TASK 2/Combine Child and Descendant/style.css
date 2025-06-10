@@ -1,0 +1,4 @@
+div > p > span {
+ background-color: yellow;
+ padding: 5px;
+}
