@@ -1,0 +1,9 @@
+.para::first-letter {
+ font-size: 2em;
+ font-weight: bold;
+ color: red;
+ }
+ .para::first-line {
+ color: blue;
+ font-style: italic;
+ }

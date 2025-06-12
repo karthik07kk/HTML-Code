@@ -1,0 +1,25 @@
+ul {
+ list-style-type: none;
+ padding: 0;
+ }
+ li {
+ padding: 8px;
+ background-color: #f2f2f2;
+ margin-bottom: 5px;
+ transition: background 0.3s;
+ }
+ li:nth-child(1) {
+ color: purple;
+ font-weight: bold;
+ }
+ li:nth-child(3) {
+ color: purple;
+ font-weight: bold;
+ }
+ li:nth-child(5) {
+ color: purple;
+ font-weight: bold;
+ }
+ li:hover {
+ background-color: lightgray;
+ }

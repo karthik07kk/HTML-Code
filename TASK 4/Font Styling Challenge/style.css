@@ -1,0 +1,11 @@
+h1 {
+ font-family: Georgia, serif;
+ font-weight: bold;
+ font-size: 2rem;
+ }
+ p {
+ font-family: Arial, sans-serif;
+ font-style: italic;
+ font-weight: lighter;
+ font-size: 1.2em;
+ }
