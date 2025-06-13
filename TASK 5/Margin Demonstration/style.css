@@ -1,0 +1,7 @@
+.margin-box {
+text-align: center;
+ width: 200px;
+ height: 100px;
+ background-color: lightblue;
+ margin: 15px;
+ }
