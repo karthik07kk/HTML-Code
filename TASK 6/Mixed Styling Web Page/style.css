@@ -1,0 +1,16 @@
+body {
+ background-color: #e6f2ff;
+ font-family: Arial, sans-serif;
+ }
+ .place {
+ border: 3px solid #007acc;
+ padding: 20px;
+ width: 300px;
+ background-color: #ffffff;
+ }
+ .place h2 {
+ color: #005580;
+ }
+ .place p {
+ color: #333333;
+ }

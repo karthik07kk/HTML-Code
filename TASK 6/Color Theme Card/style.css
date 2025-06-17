@@ -1,0 +1,22 @@
+.card {
+ background-color: #f2f2f2;
+ padding: 20px;
+ width: 250px;
+ border-radius: 10px;
+ text-align: center;
+ }
+ .name {
+ color: darkblue;
+ font-weight: bold;
+ }
+ .info {
+ color: #444;
+ }
+ .btn {
+ background-color: #4CAF50;
+ color: white;
+ padding: 10px;
+ border: none;
+ margin-top: 10px;
+ cursor: pointer;
+ }
